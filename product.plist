@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://182.254.216.209:8081/MCE_iOS/Product/MCE.ipa</string>
+					<string>http://images.hupotech.cn/download/CB.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com299.bake.mce</string>
+				<string>com299.cb.app</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>微贷专家</string>
+				<string>房钛科技</string>
 			</dict>
 		</dict>
 	</array>
